@@ -1,4 +1,4 @@
-on: [push, pull_request]
+on: [push, pull_request] #Estamos dizendo que em todo push ou pull_request uma ação será executada.
 
 jobs:
   eslint:
